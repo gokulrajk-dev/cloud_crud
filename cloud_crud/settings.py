@@ -34,6 +34,7 @@ ALLOWED_HOSTS = ["*"]
 CSRF_TRUSTED_ORIGINS=[
     'https://*.ngrok-free.dev',
     "https://*.trycloudflare.com",
+    "https://*.onrender.com",
 ]
 
 
